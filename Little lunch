@@ -1,3 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Little Lunch Co. | Homemade School Lunches</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background-color: #fff8f0;
+      color: #333;
+    }
+    header {
+      background-color: #ffbb66;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background-color: #ffe0c2;
+      text-align: center;
+      padding: 1rem;
+    }
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #d35400;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .menu-day {
+      background-color: #fff;
+      border-left: 4px solid #ffbb66;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+    footer {
+      background-color: #ffbb66;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Little Lunch Co.</h1>
+  <p>Healthy Homemade School Lunches Delivered in Byford</p>
+</header>
+
+<nav>
+  <a href="#menu">Weekly Menu</a>
+  <a href="#order">How to Order</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+</nav>
+
 <section id="menu">
   <h2>Weekly Menu</h2>
   <div class="menu-day">
@@ -36,3 +100,28 @@
     <p><strong>Treat:</strong> Crackers or Fruit Snack</p>
   </div>
 </section>
+
+<section id="order">
+  <h2>How to Order</h2>
+  <p>📅 Place your order by 8 PM the night before.</p>
+  <p>📦 DM us on Instagram: <strong>@LittleLunchCo</strong></p>
+  <p>💳 Payment via bank transfer or PayID (details sent after order).</p>
+</section>
+
+<section id="about">
+  <h2>About Little Lunch Co.</h2>
+  <p>We are a local, family-run business in Byford making nutritious, kid-approved school lunches using fresh, homemade ingredients. All meals are crafted with love, free from preservatives and nasties. Perfect for busy families wanting healthier lunch options!</p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <p>📍 Based in Byford, Western Australia</p>
+  <p>📸 Follow us on Instagram: <strong>@LittleLunchCo</strong></p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Little Lunch Co. | All rights reserved.</p>
+</footer>
+
+</body>
+</html>
