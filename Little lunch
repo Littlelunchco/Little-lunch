@@ -1,0 +1,38 @@
+<section id="menu">
+  <h2>Weekly Menu</h2>
+  <div class="menu-day">
+    <h3>Monday</h3>
+    <p><strong>Main:</strong> Chicken Sandwich or Egg Sandwich or Veggie Wrap</p>
+    <p><strong>Side 1:</strong> Watermelon or Pineapple</p>
+    <p><strong>Side 2:</strong> Celery / Carrot / Cucumber + Hummus or Cheese sticks</p>
+    <p><strong>Treat:</strong> Orange Juice or Fruit Yoghurt</p>
+  </div>
+  <div class="menu-day">
+    <h3>Tuesday</h3>
+    <p><strong>Main:</strong> Homemade Chicken Burger or Fish Fingers or Veggie Pattie</p>
+    <p><strong>Side 1:</strong> Apple or Banana</p>
+    <p><strong>Side 2:</strong> Veg of your choice + Dip or Cheese Cubes</p>
+    <p><strong>Treat:</strong> Flavoured Milk or Water</p>
+  </div>
+  <div class="menu-day">
+    <h3>Wednesday</h3>
+    <p><strong>Main:</strong> Homemade Beef Pasta or Veg Pasta or Mac and Cheese</p>
+    <p><strong>Side 1:</strong> Choc Brownie or Muffin</p>
+    <p><strong>Side 2:</strong> Fresh Fruit Salad or Yogurt</p>
+    <p><strong>Treat:</strong> Apple Juice or Orange Juice</p>
+  </div>
+  <div class="menu-day">
+    <h3>Thursday</h3>
+    <p><strong>Main:</strong> Homemade Vegetable Lasagne or Spinach & Ricotta Roll or Quiche</p>
+    <p><strong>Side 1:</strong> Rice Pudding or Fruit Custard</p>
+    <p><strong>Side 2:</strong> Fresh Cut Fruit or Salad</p>
+    <p><strong>Treat:</strong> Cheese Sticks or Crackers</p>
+  </div>
+  <div class="menu-day">
+    <h3>Friday</h3>
+    <p><strong>Main:</strong> Homemade Beef Burger or Chicken Nuggets or Veggie Burger</p>
+    <p><strong>Side 1:</strong> Veg of your choice + Dip or Carrot Sticks</p>
+    <p><strong>Side 2:</strong> Fresh Fruit or Salad</p>
+    <p><strong>Treat:</strong> Crackers or Fruit Snack</p>
+  </div>
+</section>
